@@ -81,14 +81,14 @@ A web application for creating and customizing professional resumes through an e
 I regularly practice **Data Structures & Algorithms** and solve problems on LeetCode using C++.
 
 <p align="center">
-  <a href="https://leetcode.com/u/Naitik_2005/">
+  <a href="https://leetcode.com/u/naitikbansal138/">
     <img src="https://leetcard.jacoblin.cool/Naitik_2005?theme=dark&extension=activity" alt="Naitik's LeetCode Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Naitik_2005/">
-    <img src="https://img.shields.io/badge/LeetCode-Naitik__2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/naitikbansal138/">
+    <img src="https://img.shields.io/badge/LeetCode-naitikbansal138-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -112,7 +112,7 @@ I regularly practice **Data Structures & Algorithms** and solve problems on Leet
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/u/Naitik_2005/">
+  <a href="https://leetcode.com/u/naitikbansal138/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
