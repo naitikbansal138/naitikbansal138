@@ -60,11 +60,7 @@ A web-based parking management system for vehicle entry, removal, slot monitorin
 
 ---
 
-### 📝 Piece Table Text Engine
 
-A high-performance C-based text editing engine implementing the **Piece Table** data structure, inspired by the architecture used in modern text editors.
-
-**Tech:** C, Data Structures, Python, `ctypes`
 
 ---
 
