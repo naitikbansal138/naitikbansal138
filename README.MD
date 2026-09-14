@@ -82,7 +82,7 @@ I regularly practice **Data Structures & Algorithms** and solve problems on Leet
 
 <p align="center">
   <a href="https://leetcode.com/u/naitikbansal138/">
-    <img src="https://leetcard.jacoblin.cool/Naitik_2005?theme=dark&extension=activity" alt="Naitik's LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Naitikbansal138?theme=dark&extension=activity" alt="Naitik's LeetCode Stats"/>
   </a>
 </p>
 
